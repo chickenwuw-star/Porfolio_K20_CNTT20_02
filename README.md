@@ -28,4 +28,3 @@
 
 * **Thêm tài liệu hướng dẫn:** Bổ sung tệp `README.md` chứa đường dẫn URL demo và các bước mở chi tiết.
 * **Chuẩn hóa thư mục:** Đổi tên thư mục `Images` thành `images` (dạng viết thường) để tránh lỗi phân biệt chữ hoa/thường trên môi trường Linux của GitHub Pages.
-* **Sửa liên kết CSS:** Cập nhật đường dẫn stylesheet từ `/css/styles.css` thành đường dẫn tương đối `css/styles.css` để giao diện hiển thị chính xác khi host dưới dạng subpath.
