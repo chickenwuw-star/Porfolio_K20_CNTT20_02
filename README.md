@@ -23,8 +23,3 @@
 
 * Giao diện chưa được kiểm tra và tối ưu hiển thị trên các dòng máy iPhone.
 * Biểu mẫu liên hệ hiện tại mới chỉ có giao diện, chưa hỗ trợ gửi email thực tế.
-
-## 6. Lịch sử thay đổi (Changelog / Commit Log)
-
-* **Thêm tài liệu hướng dẫn:** Bổ sung tệp `README.md` chứa đường dẫn URL demo và các bước mở chi tiết.
-* **Chuẩn hóa thư mục:** Đổi tên thư mục `Images` thành `images` (dạng viết thường) để tránh lỗi phân biệt chữ hoa/thường trên môi trường Linux của GitHub Pages.
